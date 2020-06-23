@@ -58,9 +58,8 @@
             this.lable_file_name.AutoSize = true;
             this.lable_file_name.Location = new System.Drawing.Point(275, 238);
             this.lable_file_name.Name = "lable_file_name";
-            this.lable_file_name.Size = new System.Drawing.Size(36, 20);
+            this.lable_file_name.Size = new System.Drawing.Size(0, 20);
             this.lable_file_name.TabIndex = 2;
-            this.lable_file_name.Text = "___";
             this.lable_file_name.Click += new System.EventHandler(this.lable_file_name_Click);
             // 
             // Form1

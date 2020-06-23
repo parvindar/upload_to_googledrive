@@ -175,6 +175,12 @@ namespace WindowsFormsApp3
         private void btn_upload_Click(object sender, EventArgs e)
         {
 
+            if(lable_file_name.Text.Length == 0)
+            {
+                MessageBox.Show("Select a file first!");
+                return;
+            }
+
             Authorize();
 
 
