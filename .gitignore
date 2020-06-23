@@ -261,3 +261,4 @@ __pycache__/
 *.pyc
 
 WindowsFormsApp3/cred.cs
+WindowsFormsApp3/credentials.cs
